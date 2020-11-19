@@ -1,2 +1,4 @@
 #import <stdio.h>
-printf("Stay Home For Nevada")
+main(){
+  printf("Stay home for Nevada")
+}
