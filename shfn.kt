@@ -1,1 +1,3 @@
-println("Stay home for Nevada")
+main(){
+  println("Stay home for Nevada")
+}
