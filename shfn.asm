@@ -14,5 +14,5 @@
       .done:
       ret
 
-    message           db  'Hello, world', 0
-    ;message          db  'Hello, world', 0x00
+    message           db  'Stay home for Nevada', 0
+    ;message          db  'Stay home for Nevada', 0x00
