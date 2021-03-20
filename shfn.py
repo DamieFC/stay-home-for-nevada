@@ -2,4 +2,7 @@ print("""STAY
 HOME
 FOR
 NEVADA
+OR
+ELSE
+HAHAHS
 """)
